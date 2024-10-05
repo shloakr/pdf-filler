@@ -5,14 +5,15 @@ Approach: iterate through the text boxes and fill info
 Signature: Calculate the Euclidian distance between "Signature" and the closest name to append the correct signature. 
 **files:**
 - Easy.py
-- 
+  
 ## Hard PDF 
 Approach:
 - Detect contours using Canny Edge Detection
 - Annotate boxes on vertical contour if 90% of the space in the box is white
+  
 **files:**
-  - Lines.py for contour detection.
-  - Boxes.py for annotating boxes
+- Lines.py for contour detection.
+- Boxes.py for annotating boxes
 
   
 
