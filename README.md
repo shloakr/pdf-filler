@@ -3,6 +3,7 @@
 ## Easy PDF 
 Approach: iterate through the text boxes and fill info 
 Signature: Calculate the Euclidian distance between "Signature" and the closest name to append the correct signature. 
+
 **files:**
 - Easy.py
   
